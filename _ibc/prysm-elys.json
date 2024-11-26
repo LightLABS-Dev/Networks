@@ -1,10 +1,10 @@
 {
-  "chain_2": {
+  "chain_1": {
     "chain_name": "prysm",
     "client_id": "07-tendermint-21",
     "connection_id": "connection-14"
   },
-  "chain_1": {
+  "chain_2": {
     "chain_name": "elys",
     "client_id": "07-tendermint-118",
     "connection_id": "connection-80"
