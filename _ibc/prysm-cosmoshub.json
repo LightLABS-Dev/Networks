@@ -1,22 +1,22 @@
 {
   "chain_1": {
     "chain_name": "prysm",
-    "client_id": "07-tendermint-18",
-    "connection_id": "connection-11"
+    "client_id": "07-tendermint-34",
+    "connection_id": "connection-23"
   },
   "chain_2": {
     "chain_name": "cosmoshub",
-    "client_id": "07-tendermint-3805",
-    "connection_id": "connection-3845"
+    "client_id": "07-tendermint-170",
+    "connection_id": "connection-123"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-7",
+        "channel_id": "channel-27",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-4366",
+        "channel_id": "channel-256",
         "port_id": "transfer"
       },
       "ordering": "unordered",
